@@ -5,10 +5,15 @@ Simple GUI was done with Bootstrap.
 
 
 Dependencies Used:
+
 -React Router v4
+
 -Firebase Auth
+
 -Firebase Database
+
 -Bootstrap
+
 -React Context Api, (although i was not needed, used just to demonstrate state management).
 
 
